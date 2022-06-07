@@ -1,7 +1,7 @@
 # Hi there, I'm Marcelo 👋
 
 - 🔭 I’m currently working on [IT FLOW - Gestión de servicios de tecnologías de la información](https://github.com/users/mroncatto/projects/8)
-- 🌱 I’m currently learning Java, Typescript and Node
+- 🌱 I’m currently learning Quarkus and Flutter
 
 <div align="center">
   <a href="https://github.com/mroncatto">

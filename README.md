@@ -1,7 +1,7 @@
 # Hi there, I'm Marcelo 👋
 
 - 🔭 I’m currently working on [IT FLOW - Gestión de servicios de tecnologías de la información](https://github.com/users/mroncatto/projects/8)
-- 🌱 I’m currently I am improving my knowledge in Java and Spring Boot
+- 🌱 I’m currently improving my knowledge in Java and Spring Boot
 
 <div align="center">
   <a href="https://github.com/mroncatto">

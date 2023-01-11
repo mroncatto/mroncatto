@@ -50,12 +50,3 @@ Get to know a little about my skills and the technologies I use most.
   [![DockerHub](https://img.shields.io/badge/Docker-Hub-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/mroncatto)
   
 </div>
-  
----
-  
-<div align="center">
-  
-  ![Snake animation](https://github.com/mroncatto/mroncatto/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-  

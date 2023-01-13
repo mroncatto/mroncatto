@@ -39,11 +39,6 @@ Get to know a little about my skills and the technologies I use most.
   
 </p>
 
-<div align="center">
-  <a href="https://github.com/mroncatto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mroncatto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroncatto&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <div align="center" style="display: inline_block"><br>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/marceloroncatto) 

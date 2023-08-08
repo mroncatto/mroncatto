@@ -3,7 +3,7 @@
 Get to know a little about my skills and the technologies I use most.
 
 - 🔭 I’m currently working on my personal project [IT FLOW](https://github.com/mroncatto/itflow)
-- 🌱 I’m currently improving my knowledge in Java, Spring Boot and Angular
+- 🌱 I’m currently learning microservices
 
 ### Languages
 <p>
@@ -26,7 +26,7 @@ Get to know a little about my skills and the technologies I use most.
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white"></a>
   
-  ### Software
+  ### Tools
   <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-blue?logo=visual studio code&logoColor=white"></a>
   <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-gray?logo=IntelliJ IDEA&logoColor=red"></a>
   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0078d7.svg?logo=jira&logoColor=white"></a>

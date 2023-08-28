@@ -2,7 +2,7 @@
 
 Get to know a little about my skills and the technologies I use most.
 
-- 🔭 I’m currently working on my personal project [IT FLOW](https://github.com/mroncatto/itflow)
+- 🚧 I’m currently working on my personal project [IT FLOW](https://github.com/mroncatto/itflow)
 - 🌱 I’m currently learning microservices
 
 ### Languages

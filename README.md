@@ -17,14 +17,27 @@ Get to know a little about my skills and the technologies I use most.
   ### Frameworks and Libraries
   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white"></a>
   <a href="#"><img alt="Angular Material" src="https://img.shields.io/badge/Angular Material-orange?logo=angular&logoColor=white"></a>
-  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-green?logo=spring&logoColor=white"></a>
+  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-darkgreen?logo=spring&logoColor=white"></a>
   <a href="#"><img alt="Primefaces" src="https://img.shields.io/badge/Primefaces-blue?logo=openjdk&logoColor=white"></a>
-  <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-green?logo=node.js&logoColor=white"></a>
+  <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-darkgreen?logo=node.js&logoColor=white"></a>
   
   ### Databases
+  <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white"></a>
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-purple?logo=postgresql&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white"></a>
+
+  ### Architecture and Techniques
+  <a href="#"><img alt="DDD" src="https://img.shields.io/badge/DDD-blue"></a>
+  <a href="#"><img alt="TDD" src="https://img.shields.io/badge/TDD-blue"></a>
+  <a href="#"><img alt="SOLID" src="https://img.shields.io/badge/SOLID-blue"></a>
+  <a href="#"><img alt="Clean Code" src="https://img.shields.io/badge/Clean Code-blue"></a>
+  <a href="#"><img alt="Clean Architecture" src="https://img.shields.io/badge/Clean Architecture-purple"></a>
+  <a href="#"><img alt="Hexagonal Architecture" src="https://img.shields.io/badge/Hexagonal Architecture-pink"></a>
+  <a href="#"><img alt="KISS" src="https://img.shields.io/badge/KISS-orange"></a>
+  <a href="#"><img alt="DRY" src="https://img.shields.io/badge/DRY-red"></a>
+  <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservices-darkgreen"></a>
+
   
   ### Tools
   <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-blue?logo=visual studio code&logoColor=white"></a>

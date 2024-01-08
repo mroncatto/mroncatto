@@ -8,11 +8,12 @@ Get to know a little about my skills and the technologies I use most.
 ### Languages
 <p>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-blue?logo=dart&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white"></a>
   <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white"></a>
+  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+   <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
   
   ### Frameworks and Libraries
   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white"></a>
@@ -50,6 +51,9 @@ Get to know a little about my skills and the technologies I use most.
   <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-white?logo=Amazon AWS&logoColor=orange"></a>
   
 </p>
+
+<h2 align="left" style="color:white;" >💰 You can help me by Donating</h2>
+<a href="https://www.buymeacoffee.com/mroncatto"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" width="150" /></a>
 
 <div align="center" style="display: inline_block"><br>
   
